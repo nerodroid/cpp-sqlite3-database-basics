@@ -1,6 +1,6 @@
 # cpp-sqlite3-database-basics
 
-This few files are to demo Dtabase basics in C++
+This few files are to demo sqlite3 basics in C++
 
 Steps for Setup
 
