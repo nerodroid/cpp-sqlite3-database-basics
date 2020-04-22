@@ -4,7 +4,8 @@ This few files are to demo sqlite3 basics in C++
 
 Steps for Setup
 
-1. download mingw and install
+
+1.download mingw and install
 http://mingw-w64.org/doku.php/download/mingw-builds
 
 2.Update PATH ENV. VARIABLE with mingw bbin folder
